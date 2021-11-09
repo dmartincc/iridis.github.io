@@ -31,6 +31,7 @@ github_username:  jekyll
 theme: no-style-please
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 default_locale: "es"
 
