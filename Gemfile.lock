@@ -275,6 +275,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
+  jekyll-seo-tag
   no-style-please
   tzinfo (~> 1.2)
   tzinfo-data
