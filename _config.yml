@@ -29,7 +29,7 @@ github_username:  jekyll
 
 # Build settings
 theme: no-style-please
-  back_home_text: "<"
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
