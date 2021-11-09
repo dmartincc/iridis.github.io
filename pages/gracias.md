@@ -16,7 +16,9 @@ un primer poema,
 
 espero que te guste
 
-y te haga sentir.
+y te haga sentir bien.
+
+<br>
 
 
 <a href="mailto:hola@iridis.com">Escríbeme</a>  

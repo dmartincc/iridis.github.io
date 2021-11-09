@@ -8,7 +8,7 @@ title: 🌈 💎 Iridis Rinpoche
 ---
 
 te envía un poema <br/>
-todos los días, <br/>
+cada día, <br/>
 para que vuelvas <br/>
 a querer. <br/>
 <br/>
