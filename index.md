@@ -17,4 +17,4 @@ a querer. <br/>
 
 {%-include form.html-%}
 
-<a href="/about">Conoce a Iridis</a>  
+<a href="../about">Conoce a Iridis</a>  
