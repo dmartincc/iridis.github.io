@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Iridis Rinpoche
+title: 🌈 💎 Iridis Rinpoche
 
 ---
 
@@ -12,9 +12,8 @@ todos los días, <br/>
 para que vuelvas <br/>
 a querer. <br/>
 <br/>
-🌈 💎
-<br/>
+
 
 {%-include form.html-%}
 
-<a href="about">Conoce a Iridis</a>  
+<a href="about">Conoce a Iridis nuestra poeta invitada</a>  

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conoce a Iridis Rinpoche
+title: Poeta invitada
 permalink: /about/
 ---
 
@@ -32,5 +32,5 @@ el de ayudarte a renacer.
 
 <br>
 
-<a href="mailto:hola@iridis.com">Escríbeme</a>  
+<a href="mailto:iridis@poemas.io">Escríbeme</a>  
 
