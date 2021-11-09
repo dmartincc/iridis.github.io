@@ -1,0 +1,20 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+title: Iridis Rinpoche
+
+---
+
+te envía un poema <br/>
+todos los días, <br/>
+para que vuelvas <br/>
+a querer. <br/>
+<br/>
+🌈 💎
+<br/>
+
+{%-include form.html-%}
+
+<a href="/about">Conoce a Iridis</a>  
