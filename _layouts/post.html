@@ -6,10 +6,16 @@ layout: default
 
 <article>
   <p class="post-meta">
-    <time datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
+    <time datetime="{{ page.date }}">{{ page.date | date: "%Y-%m-%d" }}</time>
   </p>
   
   <h1>{{ page.title }}</h1>
 
   {{ content }}
+  <br>
+  <p>Por {{ page.author }}</p>
+
+  <br>
+  <a href="https://api.whatsapp.com/send?&text=Te regalo este poema: ''{{ page.title }}'' https://poemas.io{{ page.url}} " target="_blank">Compartir vía Whatsapp</a>
+
 </article>

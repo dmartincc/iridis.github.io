@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: Poemas
+title: Ecos del pasado
 permalink: /poemas/
 ---
