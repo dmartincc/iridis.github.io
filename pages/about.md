@@ -18,9 +18,13 @@ y mensajera de los dioses.
 
 <br>
 
-Desde el más allá te escribo poemas, 
+Desde el más allá 
 
-para que despierte tu consciencia 
+te escribo poemas, 
+
+para que despierte 
+
+tu consciencia 
 
 y te vuelvas a querer. 
 
