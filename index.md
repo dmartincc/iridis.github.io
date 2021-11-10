@@ -15,8 +15,9 @@ a querer. <br/>
 
 
 {%-include form.html-%}
+  
+<br>
 
-<a href="/about">👩‍🎨 Conoce a Iridis nuestra poeta invitada</a>  
+{%-include menu.html-%}
 
 
-<a href="/poemas">🔥 Ecos del pasado</a>  
