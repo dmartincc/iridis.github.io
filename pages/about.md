@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Poeta invitada
+title: 👩‍🎨 Poeta invitada
 permalink: /about/
 ---
 
