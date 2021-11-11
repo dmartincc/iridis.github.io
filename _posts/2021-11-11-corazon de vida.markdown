@@ -21,7 +21,7 @@ sin ningún temor.
 
 Mi vida se descubre 
 
-ante mi,
+ante mí,
 
 como misterio
 
