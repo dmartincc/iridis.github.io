@@ -8,15 +8,15 @@ layout: default
   <p class="post-meta">
     <time datetime="{{ page.date }}">{{ page.date | date: "%Y-%m-%d" }}</time>
   </p>
-  
+  <br>
   <h1>{{ page.title }}</h1>
-
+  <br>
   {{ content }}
   <br>
   <p>Por {{ page.author }}</p>
   <br>
   <br>
-  <a href="https://api.whatsapp.com/send?&text=Te regalo este poema: ''{{ page.title }}'' https://poemas.io{{ page.url}}" target="_blank">🎁 Regala un poema por Whatsapp</a>
+  <a href="https://api.whatsapp.com/send?&text=Te regalo este poema: ''{{ page.title }}'' https://poemas.io{{ page.url}}" target="_blank">🎁 Regala "{{page.title}}" por Whatsapp</a>
   <br>
   <br>
   <a href="/">✉️ Recibe un poema diario para volver a amar</a>

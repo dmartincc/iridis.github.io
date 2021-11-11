@@ -6,7 +6,6 @@ categories: poemas
 author: Iridis Rinpoche
 ---
 
-<br>
 
 Elixir de dulce fragancia
 

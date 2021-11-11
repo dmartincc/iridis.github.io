@@ -6,7 +6,6 @@ categories: poemas
 author: Iridis Rinpoche
 ---
 
-<br>
 
 Respuestas están en mi corazón,
 
