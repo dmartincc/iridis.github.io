@@ -23,4 +23,4 @@ Vive el ahora con pasión
 
 y la luz iluminará tu corazón,
 
-revosándolo de amor pleno.
+rebosándolo de amor pleno.
