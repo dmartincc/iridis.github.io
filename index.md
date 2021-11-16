@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Poemas.io
+title: 🌈💎 Iridis Rinpoche 
 ---
 
 te envía un poema <br/>
