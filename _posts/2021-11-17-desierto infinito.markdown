@@ -31,6 +31,6 @@ si no la cruzas,
 
 será una lucha,
 
-ambas dos
+siendo ambas dos
 
-serán infinitas.
+infinitas.
