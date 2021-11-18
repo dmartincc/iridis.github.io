@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Desierto infinito"
-date:   2021-11-16 09:22:06 +0100
+date:   2021-11-17 09:22:06 +0100
 categories: poemas
 author: Iridis Rinpoche
 ---
