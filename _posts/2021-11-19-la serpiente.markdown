@@ -17,9 +17,9 @@ y el amor.
 
 <br>
 
-Eres guardiana del paráiso,
+Eres guardiana del paraíso,
 
-paráiso interior 
+paraíso interior 
 
 lleno de conocimiento y amor.
 
