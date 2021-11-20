@@ -13,7 +13,7 @@ serpiente,
 
 simbolizas la creatividad 
 
-y el amor.
+y el miedo.
 
 <br>
 
