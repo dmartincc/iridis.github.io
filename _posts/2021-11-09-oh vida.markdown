@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Oh vida"
+title:  "Vida"
 date:   2021-11-09 11:22:06 +0100
 categories: poemas
 author: Iridis Rinpoche

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Corazón de vida"
+title:  "Corazón"
 date:   2021-11-11 09:22:06 +0100
 categories: poemas
 author: Iridis Rinpoche

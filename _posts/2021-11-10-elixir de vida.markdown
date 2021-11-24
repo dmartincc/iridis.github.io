@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Elixir de vida"
+title:  "Elixir"
 date:   2021-11-10 11:22:06 +0100
 categories: poemas
 author: Iridis Rinpoche
