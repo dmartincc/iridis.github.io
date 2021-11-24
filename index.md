@@ -14,14 +14,8 @@ a querer. <br/>
 
 
 {%-include form.html-%}
-  
-<br>
 
-{%-include menu.html-%}
-
-<br>
-
-### Lectores como tú dicen esto de nuestros poemas
+### Seres humanos como tú sienten esto con nuestros poemas
 
 Me encanto!!! Tus poemas son tesoros.
 
@@ -29,10 +23,16 @@ Cada día me reencuentro un ratito con la lírica a través de tus palabras.
 
 Gracias por ser parte de mi universo 💝💝
 
+Creaste un pequeño lugar donde abstraerse cada día.
+
 😍😍😍😍😍
 
 💯🧐
 
+<br>
+<br>
+
+{%-include menu.html-%}
 
 
 

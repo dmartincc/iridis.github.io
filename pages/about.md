@@ -1,8 +1,17 @@
 ---
 layout: page
-title: 👩‍🎨 Poeta invitada
+title: 👩‍🎨 Sobre nosotros
 permalink: /about/
 ---
+
+
+Iridis Rinpoche es un experimento del
+alter ego de [David Martín-Corral](https://dmartincc.com),
+un ser vivo despierto y consciente, 
+que intenta ser libre en esta dimensión
+mediante la escritura.
+
+<br>
 
 Iridis,
 
