@@ -17,17 +17,17 @@ a querer. <br/>
 
 ### Seres humanos como tú sienten esto con nuestros poemas
 
-Me encanto!!! Tus poemas son tesoros.
+- Me encanto!!! Tus poemas son tesoros.
 
-Cada día me reencuentro un ratito con la lírica a través de tus palabras.
+- Cada día me reencuentro un ratito con la lírica a través de tus palabras.
 
-Gracias por ser parte de mi universo 💝💝
+- Gracias por ser parte de mi universo 💝💝
 
-Creaste un pequeño lugar donde abstraerse cada día.
+- Creaste un pequeño lugar donde abstraerse cada día.
 
-😍😍😍😍😍
+- 😍😍😍😍😍
 
-💯🧐
+- 💯🧐
 
 <br>
 <br>
