@@ -19,4 +19,20 @@ a querer. <br/>
 
 {%-include menu.html-%}
 
+<br>
+
+### Lectores como tú dicen esto de nuestros poemas
+
+Me encanto!!! Tus poemas son tesoros.
+
+Cada día me reencuentro un ratito con la lírica a través de tus palabras.
+
+Gracias por ser parte de mi universo 💝💝
+
+😍😍😍😍😍
+
+💯🧐
+
+
+
 
