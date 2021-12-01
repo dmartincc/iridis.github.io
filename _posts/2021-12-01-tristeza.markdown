@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tristeza"
-date:   2021-12-01 09:22:06 +0100
+date:   2021-12-01   09:22:06 +0100
 categories: poemas
 author: Iridis Rinpoche
 ---
@@ -10,25 +10,23 @@ Triste me siento
 
 cuando recuerdo
 
-tu bella luz 
+tu bella luz
 
 y no estás en mí.
 
 <br>
 
-El recuerdo, 
+El recuerdo,
 
 ese eco del pasado,
 
-se crea en mí,
-
-en mi pensamiento.
+se crea en mí.
 
 <br>
 
-Soy el señor de los pensamientos,
+Soy el señor de mis pensamientos,
 
-pudiendo influirlos, 
+pudiendo influirlos,
 
 para crearme tristeza
 
