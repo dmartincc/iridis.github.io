@@ -22,7 +22,7 @@ mi ego.
 
 Nueva identidad
 
-se ha creado
+se ha creado,
 
 sin apego y miedo.
 
