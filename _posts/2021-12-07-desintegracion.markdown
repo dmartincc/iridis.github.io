@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Desintegracion"
+title:  "Desintegración"
 date:   2021-12-07 09:22:06 +0100
 categories: poemas
 author: Iridis Rinpoche
