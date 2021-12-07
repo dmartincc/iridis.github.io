@@ -14,7 +14,7 @@ se ha sublimado.
 
 De sólido a éter
 
-se ha tranformado, 
+se ha transformado, 
 
 mi ego.
 
