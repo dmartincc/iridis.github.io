@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paz"
+title:  "Mi faro azul"
 date:   2021-12-13 09:22:06 +0100
 categories: poemas
 author: Ytacua Löpez
