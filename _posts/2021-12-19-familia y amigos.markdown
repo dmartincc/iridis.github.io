@@ -8,7 +8,7 @@ author: Iridis Rinpoche
 
 Te dan cariño,
 
-tiene atracción,
+tienen atracción,
 
 tienen amor.
 
@@ -18,7 +18,7 @@ Familia y amigos,
 
 te dan tierra
 
-en cada momento.
+sin ninguna condición.
 
 
 
