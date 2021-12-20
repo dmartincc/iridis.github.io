@@ -26,7 +26,7 @@ Por eso,
 
 tienes que vencerlo,
 
-solo tu creeras en ti.
+solo tú creeras en ti.
 
 
 
