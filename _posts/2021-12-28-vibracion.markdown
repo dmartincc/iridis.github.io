@@ -14,5 +14,9 @@ Crece en lo interno,
 
 decrece en lo externo.
 
+Si abro el canal,
+
+todo vibra hasta el más allá.
+
 
 
