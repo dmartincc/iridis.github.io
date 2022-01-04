@@ -20,7 +20,7 @@ proyecciones holográficas de presente, pasado y futuro.
 
 El mundo habrá cambiado tanto en las próximas décadas,
 
-que nuestros hijos y nietos dirán que eramos unos retrasados.
+que nuestros hijos y nietos dirán que eramos unos bárbaros.
 
 <br>
 
