@@ -24,4 +24,4 @@ son iguales a las de la tierra.
 
 Nuestro corazón es un reflejo de las estrellas
 
-solo de ti depende cuanto luz proyecta.
+solo de ti depende cuanto brilla.
