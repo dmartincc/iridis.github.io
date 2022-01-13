@@ -18,12 +18,10 @@ Mundos lejanos
 
 donde las leyes del universo
 
-son iguales a las de la tierra
+son iguales a las de la tierra.
 
 <br>
 
-Nuestro corazón es una proyección
+Nuestro corazón es un reflejo de las estrellas
 
-de las estrellas
-
-solo de ti depende cuanto brilla.
+solo de ti depende cuanto luz proyecta.
