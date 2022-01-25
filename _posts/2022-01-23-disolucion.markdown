@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Disolución"
-date:   2022-01-22 09:22:06 +0100
+date:   2022-01-23 09:22:06 +0100
 categories: poemas
 author: Iridis Rinpoche
 ---
