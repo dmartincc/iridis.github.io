@@ -6,7 +6,7 @@ categories: poemas
 author: Iridis Rinpoche
 ---
 
-La mézcla homogénea
+La mezcla homogénea
 
 del espíritu en la consciencia
 
