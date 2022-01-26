@@ -12,9 +12,9 @@
 
 {%- if posts.size > 0 -%}
   <ul>
-    {%- for post in posts limit: include.limit -%}
+    {%- for post in posts reversed limit: include.limit -%}
         <li>
-          <span>{{- post.date | date: "%Y-%m-%d" -}}</span>
+          <span>Día {{ forloop.index }} -</span>
           <a href="{{ post.url | relative_url }}">{{ post.title  }}</a>
         </li>
     {%- endfor -%}
