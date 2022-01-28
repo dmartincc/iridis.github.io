@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yo soy"
+title:  "Yo soy amor"
 date:   2022-01-27 09:22:06 +0100
 categories: poemas
 author: Iridis Rinpoche
