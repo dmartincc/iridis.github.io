@@ -10,7 +10,7 @@ El movimiento es natural,
 
 el ser humano es antinatural,
 
-tiene libre albedrio,
+tiene libre albedrío,
 
 puede caminar o no evolucionar.
 
