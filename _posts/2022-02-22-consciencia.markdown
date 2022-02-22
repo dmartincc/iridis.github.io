@@ -10,7 +10,7 @@ Consciencia,
 
 mar oscuro,
 
-material primordial.
+materia primordial.
 
 <br>
 
