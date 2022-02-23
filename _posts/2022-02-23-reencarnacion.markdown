@@ -14,7 +14,7 @@ me tienes en la desolación.
 
 <br>
 
-Renaces y tranmigras sin tensón,
+Renaces y transmigras sin tesón,
 
 dónde vas, 
 
