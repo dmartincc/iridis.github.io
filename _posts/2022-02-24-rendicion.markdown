@@ -6,7 +6,7 @@ categories: poemas
 author: Iridis Rinpoche
 ---
 
-Rindete,
+Ríndete,
 
 no luches,
 
