@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creencias"
-date:   2022-02-28 09:22:06 +0100
+date:   2022-03-01 09:22:06 +0100
 categories: poemas
 author: Iridis Rinpoche
 ---
