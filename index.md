@@ -6,8 +6,8 @@ layout: home
 title: 🌈💎 Iridis Rinpoche 
 ---
 
-te envía un poema <br/>
-cada día, <br/>
+te envía poemas <br/>
+metafísicos, <br/>
 para que vuelvas <br/>
 a querer. <br/>
 <br/>
