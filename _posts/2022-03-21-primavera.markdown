@@ -24,6 +24,6 @@ encendiendo la chispa de la vida y la creación.
 
 Me siento infinitamente dichoso,
 
-la primavera por fin llegó
+la primavera por fin llegó,
 
 a la tierra y a mi corazón.
