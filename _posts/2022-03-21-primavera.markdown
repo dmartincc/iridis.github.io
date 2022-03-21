@@ -26,4 +26,4 @@ Me siento infinitamente dichoso,
 
 la primavera por fin llegó
 
-a tierra y a mi corazón.
+a la tierra y a mi corazón.
