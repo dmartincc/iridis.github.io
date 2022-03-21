@@ -10,7 +10,7 @@ permalink: /
 te envía poemas <br/>
 metafísicos, <br/>
 para que vuelvas <br/>
-a querer. <br/>
+a quererte. <br/>
 <br/>
 
 
