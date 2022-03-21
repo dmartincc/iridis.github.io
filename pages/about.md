@@ -5,12 +5,8 @@ permalink: /about/
 ---
 
 
-Iridis Rinpoche es un experimento del
-alter ego de [David Martín-Corral](https://dmartincc.com),
-un ser vivo despierto y consciente, 
-que intenta ser libre en esta dimensión
-mediante la escritura.
-
+Iridis Rinpoche es un experimento de uno de los fractales de la personalidad de [David Martín-Corral](https://dmartincc.com),
+un ser vivo despierto y consciente, que intenta ser libre en esta dimensión abriendo corazones.
 <br>
 
 Iridis,
