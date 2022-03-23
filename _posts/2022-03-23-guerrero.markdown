@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Abundancia"
+title:  "Guerrero"
 date:   2022-03-23 09:22:06 +0100
 categories: poemas
 author: Iridis Rinpoche
