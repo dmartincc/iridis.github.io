@@ -34,4 +34,4 @@ Clímax de placer siento,
 
 sentimos, tú y yo,
 
-sintiendo cada uno de los vórtices energéticos de nuestos cuerpos.
+sintiendo cada uno de los vórtices energéticos de nuestros cuerpos.
