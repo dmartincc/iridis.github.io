@@ -6,7 +6,7 @@ categories: poemas
 author: Iridis Rinpoche
 ---
 
-Exictación,
+Excitación,
 
 vibración de la materia de tu cuerpo,
 
